@@ -11,7 +11,7 @@ Model: **ResNet**
 Activation: **ReLU**  
 Optimizer: **SGD(momentum 0.9)**  
 Loss: **Categorical Cross Entropy**  
-Learning rate: **manually set (1e-1, 1e-2, 1e-3)** 
+Learning rate: **manually set (1e-1, 1e-2, 1e-3)**  
 Epochs **150** 
 
 ## 3. Result
